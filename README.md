@@ -8,6 +8,7 @@ This package was created for several purposes:
 1.  To ease the creation of validation services - we all know validaton should be moved out of the controller 
 2.  Provide an easy way to provide context for validations - such as providing a modified set of validation rules for edit vs. create
 3.  Provide an easy way to group validations - that is, calling one 'passes()' method to validate multiple models 
+4.  Fork to allow updating framework
 
 # Installation
 
